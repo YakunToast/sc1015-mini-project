@@ -1,0 +1,3 @@
+tensorflow
+np_utils
+livelossplot
